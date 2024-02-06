@@ -21,6 +21,12 @@
         "custom_model_data": 97
       },
       "model": "minecraft:item/creeper_totem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 555
+      },
+      "model": "minecraft:item/villager_totem"
     } 
   ]
 }
