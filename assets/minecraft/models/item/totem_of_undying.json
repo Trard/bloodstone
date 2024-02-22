@@ -6,6 +6,12 @@
   "overrides": [
     {
       "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "minecraft:item/gold_trophy"
+    },
+    {
+      "predicate": {
         "custom_model_data": 90
       },
       "model": "minecraft:item/cross_totem"
