@@ -1,14 +1,14 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-      "layer0": "minecraft:item/golden_sword"
+      "layer0": "minecraft:item/netherite_sword"
     },
     "overrides": [
       {
         "predicate": {
-          "custom_model_data": 99
+          "custom_model_data": 33
         },
-        "model": "minecraft:item/glistening_golden_sword"
+        "model": "minecraft:item/sakura_sword"
       }
     ]
   }
