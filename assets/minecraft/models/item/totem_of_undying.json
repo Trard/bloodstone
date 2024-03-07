@@ -12,6 +12,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 69
+      },
+      "model": "minecraft:item/boost"
+    },
+    {
+      "predicate": {
         "custom_model_data": 90
       },
       "model": "minecraft:item/cross_totem"
@@ -33,6 +39,42 @@
         "custom_model_data": 555
       },
       "model": "minecraft:item/villager_totem"
-    } 
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1000
+      },
+      "model": "minecraft:item/totems/trard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "minecraft:item/totems/darkcake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "minecraft:item/totems/smipi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "minecraft:item/totems/kerito"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "minecraft:item/totems/fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1005
+      },
+      "model": "minecraft:item/totems/link"
+    }
   ]
 }
