@@ -125,6 +125,33 @@
             "chars": [
                 "\u00D0"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/tunasai.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\u00C8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/luni.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\u00C7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/omorfia.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\u00C6"
+            ]
         }
     ]
 }
