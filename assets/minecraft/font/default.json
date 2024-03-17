@@ -152,6 +152,51 @@
             "chars": [
                 "\u00C6"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/akbar.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\u00C5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/obsidian.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\u00C4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/olkn.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\u00C3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ussurisk.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\u00C2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/gazobloki.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\u00C1"
+            ]
         }
     ]
 }
