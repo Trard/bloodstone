@@ -53,6 +53,12 @@
 {"predicate": {"custom_model_data":94, "pulling": 1, "pull":  0.58}, "model": "item/1_pulling_1"},
 {"predicate": {"custom_model_data":94, "pulling": 1, "pull": 1.0}, "model": "item/1_pulling_2"},
 {"predicate": {"custom_model_data":94, "charged": 1}, "model": "item/1_arrow"},
-{"predicate": {"custom_model_data":94, "charged": 1, "firework": 1}, "model": "item/1_firework"}
+{"predicate": {"custom_model_data":94, "charged": 1, "firework": 1}, "model": "item/1_firework"},
+
+{"predicate": {"custom_model_data":1488}, "model": "item/2_standby"},
+{"predicate": {"custom_model_data":1488,"pulling": 1}, "model": "item/2_pulling_0"},
+{"predicate": {"custom_model_data":1488, "pulling": 1, "pull":  0.58}, "model": "item/2_pulling_1"},
+{"predicate": {"custom_model_data":1488, "pulling": 1, "pull": 1.0}, "model": "item/2_pulling_2"},
+{"predicate": {"custom_model_data":1488, "charged": 1}, "model": "item/2_arrow"}
 ]
 }
