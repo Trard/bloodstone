@@ -7,6 +7,7 @@
   },
   "overrides":
 [
-  {"predicate": {"custom_model_data":777}, "model": "item/crown"}
+  {"predicate": {"custom_model_data":777}, "model": "item/crown"},
+  {"predicate": {"custom_model_data":778}, "model": "item/crown_cartoon"}
 ]
 }
